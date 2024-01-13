@@ -1,0 +1,14 @@
+C:\temp\CSharp\EntradaDeDadosParte1\bin\Debug\net8.0\EntradaDeDadosParte1.exe
+C:\temp\CSharp\EntradaDeDadosParte1\bin\Debug\net8.0\EntradaDeDadosParte1.deps.json
+C:\temp\CSharp\EntradaDeDadosParte1\bin\Debug\net8.0\EntradaDeDadosParte1.runtimeconfig.json
+C:\temp\CSharp\EntradaDeDadosParte1\bin\Debug\net8.0\EntradaDeDadosParte1.dll
+C:\temp\CSharp\EntradaDeDadosParte1\bin\Debug\net8.0\EntradaDeDadosParte1.pdb
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\EntradaDeDadosParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\EntradaDeDadosParte1.AssemblyInfoInputs.cache
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\EntradaDeDadosParte1.AssemblyInfo.cs
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\EntradaDeDadosParte1.csproj.CoreCompileInputs.cache
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\EntradaDeDadosParte1.dll
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\refint\EntradaDeDadosParte1.dll
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\EntradaDeDadosParte1.pdb
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\EntradaDeDadosParte1.genruntimeconfig.cache
+C:\temp\CSharp\EntradaDeDadosParte1\obj\Debug\net8.0\ref\EntradaDeDadosParte1.dll

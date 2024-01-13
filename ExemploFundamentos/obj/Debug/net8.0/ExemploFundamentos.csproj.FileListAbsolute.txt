@@ -1,0 +1,14 @@
+C:\temp\CSharp\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\temp\CSharp\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\temp\CSharp\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\temp\CSharp\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\temp\CSharp\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\temp\CSharp\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
