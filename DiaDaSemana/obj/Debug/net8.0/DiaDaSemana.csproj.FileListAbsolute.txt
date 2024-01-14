@@ -1,0 +1,15 @@
+C:\temp\DiaDaSemana\bin\Debug\net8.0\DiaDaSemana.exe
+C:\temp\DiaDaSemana\bin\Debug\net8.0\DiaDaSemana.deps.json
+C:\temp\DiaDaSemana\bin\Debug\net8.0\DiaDaSemana.runtimeconfig.json
+C:\temp\DiaDaSemana\bin\Debug\net8.0\DiaDaSemana.dll
+C:\temp\DiaDaSemana\bin\Debug\net8.0\DiaDaSemana.pdb
+C:\temp\DiaDaSemana\obj\Debug\net8.0\DiaDaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DiaDaSemana\obj\Debug\net8.0\DiaDaSemana.AssemblyInfoInputs.cache
+C:\temp\DiaDaSemana\obj\Debug\net8.0\DiaDaSemana.AssemblyInfo.cs
+C:\temp\DiaDaSemana\obj\Debug\net8.0\DiaDaSemana.csproj.CoreCompileInputs.cache
+C:\temp\DiaDaSemana\obj\Debug\net8.0\DiaDaSemana.sourcelink.json
+C:\temp\DiaDaSemana\obj\Debug\net8.0\DiaDaSemana.dll
+C:\temp\DiaDaSemana\obj\Debug\net8.0\refint\DiaDaSemana.dll
+C:\temp\DiaDaSemana\obj\Debug\net8.0\DiaDaSemana.pdb
+C:\temp\DiaDaSemana\obj\Debug\net8.0\DiaDaSemana.genruntimeconfig.cache
+C:\temp\DiaDaSemana\obj\Debug\net8.0\ref\DiaDaSemana.dll
