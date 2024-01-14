@@ -1,0 +1,15 @@
+C:\temp\MesmoQuadrado\bin\Debug\net8.0\MesmoQuadrado.exe
+C:\temp\MesmoQuadrado\bin\Debug\net8.0\MesmoQuadrado.deps.json
+C:\temp\MesmoQuadrado\bin\Debug\net8.0\MesmoQuadrado.runtimeconfig.json
+C:\temp\MesmoQuadrado\bin\Debug\net8.0\MesmoQuadrado.dll
+C:\temp\MesmoQuadrado\bin\Debug\net8.0\MesmoQuadrado.pdb
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\MesmoQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\MesmoQuadrado.AssemblyInfoInputs.cache
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\MesmoQuadrado.AssemblyInfo.cs
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\MesmoQuadrado.csproj.CoreCompileInputs.cache
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\MesmoQuadrado.sourcelink.json
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\MesmoQuadrado.dll
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\refint\MesmoQuadrado.dll
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\MesmoQuadrado.pdb
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\MesmoQuadrado.genruntimeconfig.cache
+C:\temp\MesmoQuadrado\obj\Debug\net8.0\ref\MesmoQuadrado.dll

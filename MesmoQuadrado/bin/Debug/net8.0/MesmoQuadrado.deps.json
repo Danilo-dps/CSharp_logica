@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MesmoQuadrado/1.0.0": {
+        "runtime": {
+          "MesmoQuadrado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MesmoQuadrado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
