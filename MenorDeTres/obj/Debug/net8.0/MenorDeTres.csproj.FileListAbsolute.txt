@@ -1,0 +1,15 @@
+C:\temp\MenorDeTres\bin\Debug\net8.0\MenorDeTres.exe
+C:\temp\MenorDeTres\bin\Debug\net8.0\MenorDeTres.deps.json
+C:\temp\MenorDeTres\bin\Debug\net8.0\MenorDeTres.runtimeconfig.json
+C:\temp\MenorDeTres\bin\Debug\net8.0\MenorDeTres.dll
+C:\temp\MenorDeTres\bin\Debug\net8.0\MenorDeTres.pdb
+C:\temp\MenorDeTres\obj\Debug\net8.0\MenorDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\MenorDeTres\obj\Debug\net8.0\MenorDeTres.AssemblyInfoInputs.cache
+C:\temp\MenorDeTres\obj\Debug\net8.0\MenorDeTres.AssemblyInfo.cs
+C:\temp\MenorDeTres\obj\Debug\net8.0\MenorDeTres.csproj.CoreCompileInputs.cache
+C:\temp\MenorDeTres\obj\Debug\net8.0\MenorDeTres.sourcelink.json
+C:\temp\MenorDeTres\obj\Debug\net8.0\MenorDeTres.dll
+C:\temp\MenorDeTres\obj\Debug\net8.0\refint\MenorDeTres.dll
+C:\temp\MenorDeTres\obj\Debug\net8.0\MenorDeTres.pdb
+C:\temp\MenorDeTres\obj\Debug\net8.0\MenorDeTres.genruntimeconfig.cache
+C:\temp\MenorDeTres\obj\Debug\net8.0\ref\MenorDeTres.dll
