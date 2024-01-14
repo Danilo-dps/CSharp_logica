@@ -1,0 +1,15 @@
+C:\temp\EntradaDeDadosParte2\bin\Debug\net8.0\EntradaDeDadosParte2.exe
+C:\temp\EntradaDeDadosParte2\bin\Debug\net8.0\EntradaDeDadosParte2.deps.json
+C:\temp\EntradaDeDadosParte2\bin\Debug\net8.0\EntradaDeDadosParte2.runtimeconfig.json
+C:\temp\EntradaDeDadosParte2\bin\Debug\net8.0\EntradaDeDadosParte2.dll
+C:\temp\EntradaDeDadosParte2\bin\Debug\net8.0\EntradaDeDadosParte2.pdb
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\EntradaDeDadosParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\EntradaDeDadosParte2.AssemblyInfoInputs.cache
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\EntradaDeDadosParte2.AssemblyInfo.cs
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\EntradaDeDadosParte2.csproj.CoreCompileInputs.cache
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\EntradaDeDadosParte2.sourcelink.json
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\EntradaDeDadosParte2.dll
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\refint\EntradaDeDadosParte2.dll
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\EntradaDeDadosParte2.pdb
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\EntradaDeDadosParte2.genruntimeconfig.cache
+C:\temp\EntradaDeDadosParte2\obj\Debug\net8.0\ref\EntradaDeDadosParte2.dll
