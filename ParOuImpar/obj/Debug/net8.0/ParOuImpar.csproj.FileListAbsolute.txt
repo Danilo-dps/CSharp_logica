@@ -1,0 +1,15 @@
+C:\temp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\temp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfo.cs
+C:\temp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\temp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.sourcelink.json
+C:\temp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.exe
+C:\temp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.deps.json
+C:\temp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.runtimeconfig.json
+C:\temp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.dll
+C:\temp\ParOuImpar\bin\Debug\net8.0\ParOuImpar.pdb
+C:\temp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.dll
+C:\temp\ParOuImpar\obj\Debug\net8.0\refint\ParOuImpar.dll
+C:\temp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.pdb
+C:\temp\ParOuImpar\obj\Debug\net8.0\ParOuImpar.genruntimeconfig.cache
+C:\temp\ParOuImpar\obj\Debug\net8.0\ref\ParOuImpar.dll
