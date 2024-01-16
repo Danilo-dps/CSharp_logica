@@ -1,0 +1,15 @@
+C:\temp\Lanche(Snack)\bin\Debug\net8.0\Lanche(Snack).exe
+C:\temp\Lanche(Snack)\bin\Debug\net8.0\Lanche(Snack).deps.json
+C:\temp\Lanche(Snack)\bin\Debug\net8.0\Lanche(Snack).runtimeconfig.json
+C:\temp\Lanche(Snack)\bin\Debug\net8.0\Lanche(Snack).dll
+C:\temp\Lanche(Snack)\bin\Debug\net8.0\Lanche(Snack).pdb
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\Lanche(Snack).GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\Lanche(Snack).AssemblyInfoInputs.cache
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\Lanche(Snack).AssemblyInfo.cs
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\Lanche(Snack).csproj.CoreCompileInputs.cache
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\Lanche(Snack).sourcelink.json
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\Lanche(Snack).dll
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\refint\Lanche(Snack).dll
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\Lanche(Snack).pdb
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\Lanche(Snack).genruntimeconfig.cache
+C:\temp\Lanche(Snack)\obj\Debug\net8.0\ref\Lanche(Snack).dll
