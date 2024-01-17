@@ -1,0 +1,15 @@
+C:\temp\Triangulo\bin\Debug\net8.0\Triangulo.exe
+C:\temp\Triangulo\bin\Debug\net8.0\Triangulo.deps.json
+C:\temp\Triangulo\bin\Debug\net8.0\Triangulo.runtimeconfig.json
+C:\temp\Triangulo\bin\Debug\net8.0\Triangulo.dll
+C:\temp\Triangulo\bin\Debug\net8.0\Triangulo.pdb
+C:\temp\Triangulo\obj\Debug\net8.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfoInputs.cache
+C:\temp\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfo.cs
+C:\temp\Triangulo\obj\Debug\net8.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\temp\Triangulo\obj\Debug\net8.0\Triangulo.sourcelink.json
+C:\temp\Triangulo\obj\Debug\net8.0\Triangulo.dll
+C:\temp\Triangulo\obj\Debug\net8.0\refint\Triangulo.dll
+C:\temp\Triangulo\obj\Debug\net8.0\Triangulo.pdb
+C:\temp\Triangulo\obj\Debug\net8.0\Triangulo.genruntimeconfig.cache
+C:\temp\Triangulo\obj\Debug\net8.0\ref\Triangulo.dll
