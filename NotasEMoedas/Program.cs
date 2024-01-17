@@ -28,15 +28,15 @@ int c001 = (int) (notas / 0.01);
 
 
 
-Console.WriteLine("NOTAS: ");
+Console.WriteLine("NOTAS:");
 Console.WriteLine(n100 + " nota(s) de R$ 100.00");
-Console.WriteLine(n50 + " nota(s) de R$ 500.00");
+Console.WriteLine(n50 + " nota(s) de R$ 50.00");
 Console.WriteLine(n20 + " nota(s) de R$ 20.00");
 Console.WriteLine(n10 + " nota(s) de R$ 10.00");
 Console.WriteLine(n5 + " nota(s) de R$ 5.00");
 Console.WriteLine(n2 + " nota(s) de R$ 2.00");
 
-Console.WriteLine("MOEDAS: ");
+Console.WriteLine("MOEDAS:");
 Console.WriteLine(c1 + " moeda(s) de R$ 1.00");
 Console.WriteLine(c05 + " moeda(s) de R$ 0.50");
 Console.WriteLine(c025 + " moeda(s) de R$ 0.25");

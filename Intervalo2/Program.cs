@@ -1,5 +1,4 @@
 ﻿
-
 Console.WriteLine("Digite um número: ");
 int n = int.Parse(Console.ReadLine());
 int cont = 0;
@@ -19,5 +18,4 @@ for(int i = 0; i < n; i++)
 }
 Console.WriteLine(cont + " in");
 Console.WriteLine(count + " out");
-
 
