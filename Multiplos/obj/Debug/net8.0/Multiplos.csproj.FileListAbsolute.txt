@@ -1,0 +1,15 @@
+C:\temp\Multiplos\bin\Debug\net8.0\Multiplos.exe
+C:\temp\Multiplos\bin\Debug\net8.0\Multiplos.deps.json
+C:\temp\Multiplos\bin\Debug\net8.0\Multiplos.runtimeconfig.json
+C:\temp\Multiplos\bin\Debug\net8.0\Multiplos.dll
+C:\temp\Multiplos\bin\Debug\net8.0\Multiplos.pdb
+C:\temp\Multiplos\obj\Debug\net8.0\Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Multiplos\obj\Debug\net8.0\Multiplos.AssemblyInfoInputs.cache
+C:\temp\Multiplos\obj\Debug\net8.0\Multiplos.AssemblyInfo.cs
+C:\temp\Multiplos\obj\Debug\net8.0\Multiplos.csproj.CoreCompileInputs.cache
+C:\temp\Multiplos\obj\Debug\net8.0\Multiplos.sourcelink.json
+C:\temp\Multiplos\obj\Debug\net8.0\Multiplos.dll
+C:\temp\Multiplos\obj\Debug\net8.0\refint\Multiplos.dll
+C:\temp\Multiplos\obj\Debug\net8.0\Multiplos.pdb
+C:\temp\Multiplos\obj\Debug\net8.0\Multiplos.genruntimeconfig.cache
+C:\temp\Multiplos\obj\Debug\net8.0\ref\Multiplos.dll
