@@ -1,0 +1,15 @@
+C:\temp\ClassificacaoSimples\bin\Debug\net8.0\ClassificacaoSimples.exe
+C:\temp\ClassificacaoSimples\bin\Debug\net8.0\ClassificacaoSimples.deps.json
+C:\temp\ClassificacaoSimples\bin\Debug\net8.0\ClassificacaoSimples.runtimeconfig.json
+C:\temp\ClassificacaoSimples\bin\Debug\net8.0\ClassificacaoSimples.dll
+C:\temp\ClassificacaoSimples\bin\Debug\net8.0\ClassificacaoSimples.pdb
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ClassificacaoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ClassificacaoSimples.AssemblyInfoInputs.cache
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ClassificacaoSimples.AssemblyInfo.cs
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ClassificacaoSimples.csproj.CoreCompileInputs.cache
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ClassificacaoSimples.sourcelink.json
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ClassificacaoSimples.dll
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\refint\ClassificacaoSimples.dll
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ClassificacaoSimples.pdb
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ClassificacaoSimples.genruntimeconfig.cache
+C:\temp\ClassificacaoSimples\obj\Debug\net8.0\ref\ClassificacaoSimples.dll
