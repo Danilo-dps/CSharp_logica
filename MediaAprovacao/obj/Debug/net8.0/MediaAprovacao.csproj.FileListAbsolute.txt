@@ -1,0 +1,15 @@
+C:\temp\MediaAprovacao\bin\Debug\net8.0\MediaAprovacao.exe
+C:\temp\MediaAprovacao\bin\Debug\net8.0\MediaAprovacao.deps.json
+C:\temp\MediaAprovacao\bin\Debug\net8.0\MediaAprovacao.runtimeconfig.json
+C:\temp\MediaAprovacao\bin\Debug\net8.0\MediaAprovacao.dll
+C:\temp\MediaAprovacao\bin\Debug\net8.0\MediaAprovacao.pdb
+C:\temp\MediaAprovacao\obj\Debug\net8.0\MediaAprovacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\MediaAprovacao\obj\Debug\net8.0\MediaAprovacao.AssemblyInfoInputs.cache
+C:\temp\MediaAprovacao\obj\Debug\net8.0\MediaAprovacao.AssemblyInfo.cs
+C:\temp\MediaAprovacao\obj\Debug\net8.0\MediaAprovacao.csproj.CoreCompileInputs.cache
+C:\temp\MediaAprovacao\obj\Debug\net8.0\MediaAprovacao.sourcelink.json
+C:\temp\MediaAprovacao\obj\Debug\net8.0\MediaAprovacao.dll
+C:\temp\MediaAprovacao\obj\Debug\net8.0\refint\MediaAprovacao.dll
+C:\temp\MediaAprovacao\obj\Debug\net8.0\MediaAprovacao.pdb
+C:\temp\MediaAprovacao\obj\Debug\net8.0\MediaAprovacao.genruntimeconfig.cache
+C:\temp\MediaAprovacao\obj\Debug\net8.0\ref\MediaAprovacao.dll
