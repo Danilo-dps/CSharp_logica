@@ -57,3 +57,5 @@ switch(num)
 }
 
 Console.WriteLine(mes);
+
+//Switch-case 
