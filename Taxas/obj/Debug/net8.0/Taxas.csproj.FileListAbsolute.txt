@@ -1,0 +1,15 @@
+C:\temp\Taxas\bin\Debug\net8.0\Taxas.exe
+C:\temp\Taxas\bin\Debug\net8.0\Taxas.deps.json
+C:\temp\Taxas\bin\Debug\net8.0\Taxas.runtimeconfig.json
+C:\temp\Taxas\bin\Debug\net8.0\Taxas.dll
+C:\temp\Taxas\bin\Debug\net8.0\Taxas.pdb
+C:\temp\Taxas\obj\Debug\net8.0\Taxas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Taxas\obj\Debug\net8.0\Taxas.AssemblyInfoInputs.cache
+C:\temp\Taxas\obj\Debug\net8.0\Taxas.AssemblyInfo.cs
+C:\temp\Taxas\obj\Debug\net8.0\Taxas.csproj.CoreCompileInputs.cache
+C:\temp\Taxas\obj\Debug\net8.0\Taxas.sourcelink.json
+C:\temp\Taxas\obj\Debug\net8.0\Taxas.dll
+C:\temp\Taxas\obj\Debug\net8.0\refint\Taxas.dll
+C:\temp\Taxas\obj\Debug\net8.0\Taxas.pdb
+C:\temp\Taxas\obj\Debug\net8.0\Taxas.genruntimeconfig.cache
+C:\temp\Taxas\obj\Debug\net8.0\ref\Taxas.dll
