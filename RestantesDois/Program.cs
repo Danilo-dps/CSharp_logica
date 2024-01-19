@@ -1,0 +1,12 @@
+﻿int n = Convert.ToInt32(Console.ReadLine());
+int count = 0;
+
+for(int i = 0; i < 10000; i++)
+{
+    if(i % n == 2)
+    {
+        Console.WriteLine(i);
+        count++;
+    }
+}
+Console.WriteLine(count);

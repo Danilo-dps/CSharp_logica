@@ -1,0 +1,15 @@
+C:\temp\RestantesDois\bin\Debug\net8.0\RestantesDois.exe
+C:\temp\RestantesDois\bin\Debug\net8.0\RestantesDois.deps.json
+C:\temp\RestantesDois\bin\Debug\net8.0\RestantesDois.runtimeconfig.json
+C:\temp\RestantesDois\bin\Debug\net8.0\RestantesDois.dll
+C:\temp\RestantesDois\bin\Debug\net8.0\RestantesDois.pdb
+C:\temp\RestantesDois\obj\Debug\net8.0\RestantesDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\RestantesDois\obj\Debug\net8.0\RestantesDois.AssemblyInfoInputs.cache
+C:\temp\RestantesDois\obj\Debug\net8.0\RestantesDois.AssemblyInfo.cs
+C:\temp\RestantesDois\obj\Debug\net8.0\RestantesDois.csproj.CoreCompileInputs.cache
+C:\temp\RestantesDois\obj\Debug\net8.0\RestantesDois.sourcelink.json
+C:\temp\RestantesDois\obj\Debug\net8.0\RestantesDois.dll
+C:\temp\RestantesDois\obj\Debug\net8.0\refint\RestantesDois.dll
+C:\temp\RestantesDois\obj\Debug\net8.0\RestantesDois.pdb
+C:\temp\RestantesDois\obj\Debug\net8.0\RestantesDois.genruntimeconfig.cache
+C:\temp\RestantesDois\obj\Debug\net8.0\ref\RestantesDois.dll
