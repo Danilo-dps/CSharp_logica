@@ -1,0 +1,15 @@
+C:\temp\TabelaDeMultiplicacao\bin\Debug\net8.0\TabelaDeMultiplicacao.exe
+C:\temp\TabelaDeMultiplicacao\bin\Debug\net8.0\TabelaDeMultiplicacao.deps.json
+C:\temp\TabelaDeMultiplicacao\bin\Debug\net8.0\TabelaDeMultiplicacao.runtimeconfig.json
+C:\temp\TabelaDeMultiplicacao\bin\Debug\net8.0\TabelaDeMultiplicacao.dll
+C:\temp\TabelaDeMultiplicacao\bin\Debug\net8.0\TabelaDeMultiplicacao.pdb
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\TabelaDeMultiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\TabelaDeMultiplicacao.AssemblyInfoInputs.cache
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\TabelaDeMultiplicacao.AssemblyInfo.cs
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\TabelaDeMultiplicacao.csproj.CoreCompileInputs.cache
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\TabelaDeMultiplicacao.sourcelink.json
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\TabelaDeMultiplicacao.dll
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\refint\TabelaDeMultiplicacao.dll
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\TabelaDeMultiplicacao.pdb
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\TabelaDeMultiplicacao.genruntimeconfig.cache
+C:\temp\TabelaDeMultiplicacao\obj\Debug\net8.0\ref\TabelaDeMultiplicacao.dll
