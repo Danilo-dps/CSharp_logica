@@ -1,0 +1,15 @@
+C:\temp\MediasPonderadas\bin\Debug\net8.0\MediasPonderadas.exe
+C:\temp\MediasPonderadas\bin\Debug\net8.0\MediasPonderadas.deps.json
+C:\temp\MediasPonderadas\bin\Debug\net8.0\MediasPonderadas.runtimeconfig.json
+C:\temp\MediasPonderadas\bin\Debug\net8.0\MediasPonderadas.dll
+C:\temp\MediasPonderadas\bin\Debug\net8.0\MediasPonderadas.pdb
+C:\temp\MediasPonderadas\obj\Debug\net8.0\MediasPonderadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\MediasPonderadas\obj\Debug\net8.0\MediasPonderadas.AssemblyInfoInputs.cache
+C:\temp\MediasPonderadas\obj\Debug\net8.0\MediasPonderadas.AssemblyInfo.cs
+C:\temp\MediasPonderadas\obj\Debug\net8.0\MediasPonderadas.csproj.CoreCompileInputs.cache
+C:\temp\MediasPonderadas\obj\Debug\net8.0\MediasPonderadas.sourcelink.json
+C:\temp\MediasPonderadas\obj\Debug\net8.0\MediasPonderadas.dll
+C:\temp\MediasPonderadas\obj\Debug\net8.0\refint\MediasPonderadas.dll
+C:\temp\MediasPonderadas\obj\Debug\net8.0\MediasPonderadas.pdb
+C:\temp\MediasPonderadas\obj\Debug\net8.0\MediasPonderadas.genruntimeconfig.cache
+C:\temp\MediasPonderadas\obj\Debug\net8.0\ref\MediasPonderadas.dll
