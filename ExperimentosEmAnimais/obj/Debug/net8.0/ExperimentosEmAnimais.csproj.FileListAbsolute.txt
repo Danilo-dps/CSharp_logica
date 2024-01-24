@@ -1,0 +1,15 @@
+C:\temp\ExperimentosEmAnimais\bin\Debug\net8.0\ExperimentosEmAnimais.exe
+C:\temp\ExperimentosEmAnimais\bin\Debug\net8.0\ExperimentosEmAnimais.deps.json
+C:\temp\ExperimentosEmAnimais\bin\Debug\net8.0\ExperimentosEmAnimais.runtimeconfig.json
+C:\temp\ExperimentosEmAnimais\bin\Debug\net8.0\ExperimentosEmAnimais.dll
+C:\temp\ExperimentosEmAnimais\bin\Debug\net8.0\ExperimentosEmAnimais.pdb
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ExperimentosEmAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ExperimentosEmAnimais.AssemblyInfoInputs.cache
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ExperimentosEmAnimais.AssemblyInfo.cs
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ExperimentosEmAnimais.csproj.CoreCompileInputs.cache
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ExperimentosEmAnimais.sourcelink.json
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ExperimentosEmAnimais.dll
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\refint\ExperimentosEmAnimais.dll
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ExperimentosEmAnimais.pdb
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ExperimentosEmAnimais.genruntimeconfig.cache
+C:\temp\ExperimentosEmAnimais\obj\Debug\net8.0\ref\ExperimentosEmAnimais.dll
