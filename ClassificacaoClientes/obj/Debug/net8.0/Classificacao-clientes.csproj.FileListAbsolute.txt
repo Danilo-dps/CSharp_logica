@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\bin\Debug\net8.0\Classificacao-clientes.exe
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\bin\Debug\net8.0\Classificacao-clientes.deps.json
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\bin\Debug\net8.0\Classificacao-clientes.runtimeconfig.json
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\bin\Debug\net8.0\Classificacao-clientes.dll
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\bin\Debug\net8.0\Classificacao-clientes.pdb
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\Classificacao-clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\Classificacao-clientes.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\Classificacao-clientes.AssemblyInfo.cs
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\Classificacao-clientes.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\Classificacao-clientes.dll
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\refint\Classificacao-clientes.dll
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\Classificacao-clientes.pdb
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\Classificacao-clientes.genruntimeconfig.cache
+C:\temp\CSharp-DIO\CRM\Classificacao-clientes\obj\Debug\net8.0\ref\Classificacao-clientes.dll
