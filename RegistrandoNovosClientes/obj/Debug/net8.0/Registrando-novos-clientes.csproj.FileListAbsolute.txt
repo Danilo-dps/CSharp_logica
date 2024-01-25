@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\Registrando-novos-clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\Registrando-novos-clientes.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\Registrando-novos-clientes.AssemblyInfo.cs
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\Registrando-novos-clientes.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\bin\Debug\net8.0\Registrando-novos-clientes.exe
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\bin\Debug\net8.0\Registrando-novos-clientes.deps.json
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\bin\Debug\net8.0\Registrando-novos-clientes.runtimeconfig.json
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\bin\Debug\net8.0\Registrando-novos-clientes.dll
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\bin\Debug\net8.0\Registrando-novos-clientes.pdb
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\Registrando-novos-clientes.dll
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\refint\Registrando-novos-clientes.dll
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\Registrando-novos-clientes.pdb
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\Registrando-novos-clientes.genruntimeconfig.cache
+C:\temp\CSharp-DIO\CRM\Registrando-novos-clientes\obj\Debug\net8.0\ref\Registrando-novos-clientes.dll
