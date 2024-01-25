@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\CRM\verificacao-idade\bin\Debug\net8.0\verificacao-idade.exe
+C:\temp\CSharp-DIO\CRM\verificacao-idade\bin\Debug\net8.0\verificacao-idade.deps.json
+C:\temp\CSharp-DIO\CRM\verificacao-idade\bin\Debug\net8.0\verificacao-idade.runtimeconfig.json
+C:\temp\CSharp-DIO\CRM\verificacao-idade\bin\Debug\net8.0\verificacao-idade.dll
+C:\temp\CSharp-DIO\CRM\verificacao-idade\bin\Debug\net8.0\verificacao-idade.pdb
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\verificacao-idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\verificacao-idade.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\verificacao-idade.AssemblyInfo.cs
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\verificacao-idade.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\verificacao-idade.dll
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\refint\verificacao-idade.dll
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\verificacao-idade.pdb
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\verificacao-idade.genruntimeconfig.cache
+C:\temp\CSharp-DIO\CRM\verificacao-idade\obj\Debug\net8.0\ref\verificacao-idade.dll
