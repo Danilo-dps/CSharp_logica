@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Crinado-jogador-futebol/1.0.0": {
+        "runtime": {
+          "Crinado-jogador-futebol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crinado-jogador-futebol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
