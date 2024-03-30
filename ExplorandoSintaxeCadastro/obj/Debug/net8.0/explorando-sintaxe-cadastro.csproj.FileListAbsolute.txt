@@ -1,0 +1,14 @@
+C:\temp\explorando-sintaxe-cadastro\bin\Debug\net8.0\explorando-sintaxe-cadastro.exe
+C:\temp\explorando-sintaxe-cadastro\bin\Debug\net8.0\explorando-sintaxe-cadastro.deps.json
+C:\temp\explorando-sintaxe-cadastro\bin\Debug\net8.0\explorando-sintaxe-cadastro.runtimeconfig.json
+C:\temp\explorando-sintaxe-cadastro\bin\Debug\net8.0\explorando-sintaxe-cadastro.dll
+C:\temp\explorando-sintaxe-cadastro\bin\Debug\net8.0\explorando-sintaxe-cadastro.pdb
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\explorando-sintaxe-cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\explorando-sintaxe-cadastro.AssemblyInfoInputs.cache
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\explorando-sintaxe-cadastro.AssemblyInfo.cs
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\explorando-sintaxe-cadastro.csproj.CoreCompileInputs.cache
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\explorando-sintaxe-cadastro.dll
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\refint\explorando-sintaxe-cadastro.dll
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\explorando-sintaxe-cadastro.pdb
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\explorando-sintaxe-cadastro.genruntimeconfig.cache
+C:\temp\explorando-sintaxe-cadastro\obj\Debug\net8.0\ref\explorando-sintaxe-cadastro.dll
