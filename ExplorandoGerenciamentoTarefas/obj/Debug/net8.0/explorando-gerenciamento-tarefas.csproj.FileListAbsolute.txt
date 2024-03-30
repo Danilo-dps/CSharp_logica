@@ -1,0 +1,14 @@
+C:\temp\explorando-gerenciamento-tarefas\bin\Debug\net8.0\explorando-gerenciamento-tarefas.exe
+C:\temp\explorando-gerenciamento-tarefas\bin\Debug\net8.0\explorando-gerenciamento-tarefas.deps.json
+C:\temp\explorando-gerenciamento-tarefas\bin\Debug\net8.0\explorando-gerenciamento-tarefas.runtimeconfig.json
+C:\temp\explorando-gerenciamento-tarefas\bin\Debug\net8.0\explorando-gerenciamento-tarefas.dll
+C:\temp\explorando-gerenciamento-tarefas\bin\Debug\net8.0\explorando-gerenciamento-tarefas.pdb
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\explorando-gerenciamento-tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\explorando-gerenciamento-tarefas.AssemblyInfoInputs.cache
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\explorando-gerenciamento-tarefas.AssemblyInfo.cs
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\explorando-gerenciamento-tarefas.csproj.CoreCompileInputs.cache
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\explorando-gerenciamento-tarefas.dll
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\refint\explorando-gerenciamento-tarefas.dll
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\explorando-gerenciamento-tarefas.pdb
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\explorando-gerenciamento-tarefas.genruntimeconfig.cache
+C:\temp\explorando-gerenciamento-tarefas\obj\Debug\net8.0\ref\explorando-gerenciamento-tarefas.dll
