@@ -1,0 +1,14 @@
+C:\temp\desafio-código-dio\explorando-arrays-listas\bin\Debug\net8.0\explorando-arrays-listas.exe
+C:\temp\desafio-código-dio\explorando-arrays-listas\bin\Debug\net8.0\explorando-arrays-listas.deps.json
+C:\temp\desafio-código-dio\explorando-arrays-listas\bin\Debug\net8.0\explorando-arrays-listas.runtimeconfig.json
+C:\temp\desafio-código-dio\explorando-arrays-listas\bin\Debug\net8.0\explorando-arrays-listas.dll
+C:\temp\desafio-código-dio\explorando-arrays-listas\bin\Debug\net8.0\explorando-arrays-listas.pdb
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\explorando-arrays-listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\explorando-arrays-listas.AssemblyInfoInputs.cache
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\explorando-arrays-listas.AssemblyInfo.cs
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\explorando-arrays-listas.csproj.CoreCompileInputs.cache
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\explorando-arrays-listas.dll
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\refint\explorando-arrays-listas.dll
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\explorando-arrays-listas.pdb
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\explorando-arrays-listas.genruntimeconfig.cache
+C:\temp\desafio-código-dio\explorando-arrays-listas\obj\Debug\net8.0\ref\explorando-arrays-listas.dll
