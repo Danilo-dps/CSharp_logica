@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "explorando-funcoes", "explorando-funcoes.csproj", "{5432B934-5501-4AC0-9F99-AF968E26197A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5432B934-5501-4AC0-9F99-AF968E26197A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5432B934-5501-4AC0-9F99-AF968E26197A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5432B934-5501-4AC0-9F99-AF968E26197A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5432B934-5501-4AC0-9F99-AF968E26197A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C806959-FFD9-47D9-A31E-A5F9965E7078}
+	EndGlobalSection
+EndGlobal

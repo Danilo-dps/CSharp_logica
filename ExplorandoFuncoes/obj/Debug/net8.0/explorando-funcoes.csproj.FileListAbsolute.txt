@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\explorando-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\explorando-funcoes.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\explorando-funcoes.AssemblyInfo.cs
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\explorando-funcoes.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\bin\Debug\net8.0\explorando-funcoes.exe
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\bin\Debug\net8.0\explorando-funcoes.deps.json
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\bin\Debug\net8.0\explorando-funcoes.runtimeconfig.json
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\bin\Debug\net8.0\explorando-funcoes.dll
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\bin\Debug\net8.0\explorando-funcoes.pdb
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\explorando-funcoes.dll
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\refint\explorando-funcoes.dll
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\explorando-funcoes.pdb
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\explorando-funcoes.genruntimeconfig.cache
+C:\temp\CSharp-DIO\desafio-código-dio\explorando-funcoes\obj\Debug\net8.0\ref\explorando-funcoes.dll
