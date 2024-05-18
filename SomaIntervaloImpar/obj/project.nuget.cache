@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u0F6+OApKmNYDTw31JObAWtXOJtN/wBkkQV1448BESg0UBBl1F9z26WGvxKE0IJVf/NsOvwUM+x5lyCw5+L6tQ==",
+  "dgSpecHash": "nIaVG8p13qz8eEtciGOExr570YAAWubk7Unthduj39xPDT7xFf7fwSdlB3ZiDiT1wtWl7cX4RBPDQlJz4drNSw==",
   "success": true,
-  "projectFilePath": "C:\\temp\\SomaIntervaloImpar\\SomaIntervalo.csproj",
+  "projectFilePath": "C:\\temp\\CSharp_logica\\SomaIntervaloImpar\\SomaIntervalo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
