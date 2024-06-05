@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crinado-jogador-futebol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df6779b6ee25ab48a3407674074c5e4ebe2e7ddd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crinado-jogador-futebol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crinado-jogador-futebol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

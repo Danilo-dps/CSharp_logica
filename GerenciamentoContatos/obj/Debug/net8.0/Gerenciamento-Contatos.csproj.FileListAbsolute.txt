@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\bin\Debug\net8.0\Gerenciamento-Contatos.exe
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\bin\Debug\net8.0\Gerenciamento-Contatos.deps.json
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\bin\Debug\net8.0\Gerenciamento-Contatos.runtimeconfig.json
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\bin\Debug\net8.0\Gerenciamento-Contatos.dll
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\bin\Debug\net8.0\Gerenciamento-Contatos.pdb
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\Gerenciamento-Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\Gerenciamento-Contatos.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\Gerenciamento-Contatos.AssemblyInfo.cs
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\Gerenciamento-Contatos.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\Gerenciamento-Contatos.dll
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\refint\Gerenciamento-Contatos.dll
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\Gerenciamento-Contatos.pdb
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\Gerenciamento-Contatos.genruntimeconfig.cache
+C:\temp\CSharp-DIO\CRM\Gerenciamento-Contatos\obj\Debug\net8.0\ref\Gerenciamento-Contatos.dll

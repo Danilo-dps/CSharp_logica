@@ -1,0 +1,15 @@
+C:\temp\CSharp_logica\ExemploDeList\bin\Debug\net8.0\ExemploDeList.exe
+C:\temp\CSharp_logica\ExemploDeList\bin\Debug\net8.0\ExemploDeList.deps.json
+C:\temp\CSharp_logica\ExemploDeList\bin\Debug\net8.0\ExemploDeList.runtimeconfig.json
+C:\temp\CSharp_logica\ExemploDeList\bin\Debug\net8.0\ExemploDeList.dll
+C:\temp\CSharp_logica\ExemploDeList\bin\Debug\net8.0\ExemploDeList.pdb
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ExemploDeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ExemploDeList.AssemblyInfoInputs.cache
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ExemploDeList.AssemblyInfo.cs
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ExemploDeList.csproj.CoreCompileInputs.cache
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ExemploDeList.sourcelink.json
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ExemploDeList.dll
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\refint\ExemploDeList.dll
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ExemploDeList.pdb
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ExemploDeList.genruntimeconfig.cache
+C:\temp\CSharp_logica\ExemploDeList\obj\Debug\net8.0\ref\ExemploDeList.dll

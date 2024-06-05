@@ -1,0 +1,14 @@
+C:\temp\CSharo-DIO\bin\Debug\net8.0\CSharo-DIO.exe
+C:\temp\CSharo-DIO\bin\Debug\net8.0\CSharo-DIO.deps.json
+C:\temp\CSharo-DIO\bin\Debug\net8.0\CSharo-DIO.runtimeconfig.json
+C:\temp\CSharo-DIO\bin\Debug\net8.0\CSharo-DIO.dll
+C:\temp\CSharo-DIO\bin\Debug\net8.0\CSharo-DIO.pdb
+C:\temp\CSharo-DIO\obj\Debug\net8.0\CSharo-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharo-DIO\obj\Debug\net8.0\CSharo-DIO.AssemblyInfoInputs.cache
+C:\temp\CSharo-DIO\obj\Debug\net8.0\CSharo-DIO.AssemblyInfo.cs
+C:\temp\CSharo-DIO\obj\Debug\net8.0\CSharo-DIO.csproj.CoreCompileInputs.cache
+C:\temp\CSharo-DIO\obj\Debug\net8.0\CSharo-DIO.dll
+C:\temp\CSharo-DIO\obj\Debug\net8.0\refint\CSharo-DIO.dll
+C:\temp\CSharo-DIO\obj\Debug\net8.0\CSharo-DIO.pdb
+C:\temp\CSharo-DIO\obj\Debug\net8.0\CSharo-DIO.genruntimeconfig.cache
+C:\temp\CSharo-DIO\obj\Debug\net8.0\ref\CSharo-DIO.dll

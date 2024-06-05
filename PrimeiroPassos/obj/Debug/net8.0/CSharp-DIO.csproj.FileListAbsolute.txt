@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\bin\Debug\net8.0\CSharp-DIO.exe
+C:\temp\CSharp-DIO\bin\Debug\net8.0\CSharp-DIO.deps.json
+C:\temp\CSharp-DIO\bin\Debug\net8.0\CSharp-DIO.runtimeconfig.json
+C:\temp\CSharp-DIO\bin\Debug\net8.0\CSharp-DIO.dll
+C:\temp\CSharp-DIO\bin\Debug\net8.0\CSharp-DIO.pdb
+C:\temp\CSharp-DIO\obj\Debug\net8.0\CSharp-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\obj\Debug\net8.0\CSharp-DIO.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\obj\Debug\net8.0\CSharp-DIO.AssemblyInfo.cs
+C:\temp\CSharp-DIO\obj\Debug\net8.0\CSharp-DIO.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\obj\Debug\net8.0\CSharp-DIO.dll
+C:\temp\CSharp-DIO\obj\Debug\net8.0\refint\CSharp-DIO.dll
+C:\temp\CSharp-DIO\obj\Debug\net8.0\CSharp-DIO.pdb
+C:\temp\CSharp-DIO\obj\Debug\net8.0\CSharp-DIO.genruntimeconfig.cache
+C:\temp\CSharp-DIO\obj\Debug\net8.0\ref\CSharp-DIO.dll

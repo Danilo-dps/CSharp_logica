@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Primeiro-desafio-POO/1.0.0": {
+        "runtime": {
+          "Primeiro-desafio-POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primeiro-desafio-POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

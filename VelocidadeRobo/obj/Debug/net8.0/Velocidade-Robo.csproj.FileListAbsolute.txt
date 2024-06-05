@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\Velocidade-Robo\bin\Debug\net8.0\Velocidade-Robo.exe
+C:\temp\CSharp-DIO\Velocidade-Robo\bin\Debug\net8.0\Velocidade-Robo.deps.json
+C:\temp\CSharp-DIO\Velocidade-Robo\bin\Debug\net8.0\Velocidade-Robo.runtimeconfig.json
+C:\temp\CSharp-DIO\Velocidade-Robo\bin\Debug\net8.0\Velocidade-Robo.dll
+C:\temp\CSharp-DIO\Velocidade-Robo\bin\Debug\net8.0\Velocidade-Robo.pdb
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\Velocidade-Robo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\Velocidade-Robo.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\Velocidade-Robo.AssemblyInfo.cs
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\Velocidade-Robo.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\Velocidade-Robo.dll
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\refint\Velocidade-Robo.dll
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\Velocidade-Robo.pdb
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\Velocidade-Robo.genruntimeconfig.cache
+C:\temp\CSharp-DIO\Velocidade-Robo\obj\Debug\net8.0\ref\Velocidade-Robo.dll

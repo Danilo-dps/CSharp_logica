@@ -1,0 +1,15 @@
+C:\temp\CSharp_logica\Esfera\bin\Debug\net8.0\Esfera.exe
+C:\temp\CSharp_logica\Esfera\bin\Debug\net8.0\Esfera.deps.json
+C:\temp\CSharp_logica\Esfera\bin\Debug\net8.0\Esfera.runtimeconfig.json
+C:\temp\CSharp_logica\Esfera\bin\Debug\net8.0\Esfera.dll
+C:\temp\CSharp_logica\Esfera\bin\Debug\net8.0\Esfera.pdb
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\Esfera.AssemblyInfoInputs.cache
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\Esfera.AssemblyInfo.cs
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\Esfera.csproj.CoreCompileInputs.cache
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\Esfera.sourcelink.json
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\Esfera.dll
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\refint\Esfera.dll
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\Esfera.pdb
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\Esfera.genruntimeconfig.cache
+C:\temp\CSharp_logica\Esfera\obj\Debug\net8.0\ref\Esfera.dll

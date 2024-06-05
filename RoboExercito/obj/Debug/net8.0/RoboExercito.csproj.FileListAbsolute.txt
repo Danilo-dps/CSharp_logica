@@ -1,0 +1,15 @@
+C:\temp\CSharp_logica\RoboExercito\bin\Debug\net8.0\RoboExercito.exe
+C:\temp\CSharp_logica\RoboExercito\bin\Debug\net8.0\RoboExercito.deps.json
+C:\temp\CSharp_logica\RoboExercito\bin\Debug\net8.0\RoboExercito.runtimeconfig.json
+C:\temp\CSharp_logica\RoboExercito\bin\Debug\net8.0\RoboExercito.dll
+C:\temp\CSharp_logica\RoboExercito\bin\Debug\net8.0\RoboExercito.pdb
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\RoboExercito.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\RoboExercito.AssemblyInfoInputs.cache
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\RoboExercito.AssemblyInfo.cs
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\RoboExercito.csproj.CoreCompileInputs.cache
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\RoboExercito.sourcelink.json
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\RoboExercito.dll
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\refint\RoboExercito.dll
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\RoboExercito.pdb
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\RoboExercito.genruntimeconfig.cache
+C:\temp\CSharp_logica\RoboExercito\obj\Debug\net8.0\ref\RoboExercito.dll

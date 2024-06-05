@@ -1,0 +1,15 @@
+C:\temp\CSharp_logica\IF_Ternario\bin\Debug\net8.0\IF_Ternario.exe
+C:\temp\CSharp_logica\IF_Ternario\bin\Debug\net8.0\IF_Ternario.deps.json
+C:\temp\CSharp_logica\IF_Ternario\bin\Debug\net8.0\IF_Ternario.runtimeconfig.json
+C:\temp\CSharp_logica\IF_Ternario\bin\Debug\net8.0\IF_Ternario.dll
+C:\temp\CSharp_logica\IF_Ternario\bin\Debug\net8.0\IF_Ternario.pdb
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\IF_Ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\IF_Ternario.AssemblyInfoInputs.cache
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\IF_Ternario.AssemblyInfo.cs
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\IF_Ternario.csproj.CoreCompileInputs.cache
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\IF_Ternario.sourcelink.json
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\IF_Ternario.dll
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\refint\IF_Ternario.dll
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\IF_Ternario.pdb
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\IF_Ternario.genruntimeconfig.cache
+C:\temp\CSharp_logica\IF_Ternario\obj\Debug\net8.0\ref\IF_Ternario.dll

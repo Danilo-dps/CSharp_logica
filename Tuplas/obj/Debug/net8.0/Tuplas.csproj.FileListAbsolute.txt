@@ -1,0 +1,15 @@
+C:\temp\CSharp_logica\Tuplas\bin\Debug\net8.0\Tuplas.exe
+C:\temp\CSharp_logica\Tuplas\bin\Debug\net8.0\Tuplas.deps.json
+C:\temp\CSharp_logica\Tuplas\bin\Debug\net8.0\Tuplas.runtimeconfig.json
+C:\temp\CSharp_logica\Tuplas\bin\Debug\net8.0\Tuplas.dll
+C:\temp\CSharp_logica\Tuplas\bin\Debug\net8.0\Tuplas.pdb
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\Tuplas.AssemblyInfoInputs.cache
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\Tuplas.AssemblyInfo.cs
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\Tuplas.sourcelink.json
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\Tuplas.dll
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\refint\Tuplas.dll
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\Tuplas.pdb
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\Tuplas.genruntimeconfig.cache
+C:\temp\CSharp_logica\Tuplas\obj\Debug\net8.0\ref\Tuplas.dll

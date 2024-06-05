@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\Dano-Rpgistas\bin\Debug\net8.0\Dano-Rpgistas.exe
+C:\temp\CSharp-DIO\Dano-Rpgistas\bin\Debug\net8.0\Dano-Rpgistas.deps.json
+C:\temp\CSharp-DIO\Dano-Rpgistas\bin\Debug\net8.0\Dano-Rpgistas.runtimeconfig.json
+C:\temp\CSharp-DIO\Dano-Rpgistas\bin\Debug\net8.0\Dano-Rpgistas.dll
+C:\temp\CSharp-DIO\Dano-Rpgistas\bin\Debug\net8.0\Dano-Rpgistas.pdb
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\Dano-Rpgistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\Dano-Rpgistas.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\Dano-Rpgistas.AssemblyInfo.cs
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\Dano-Rpgistas.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\Dano-Rpgistas.dll
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\refint\Dano-Rpgistas.dll
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\Dano-Rpgistas.pdb
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\Dano-Rpgistas.genruntimeconfig.cache
+C:\temp\CSharp-DIO\Dano-Rpgistas\obj\Debug\net8.0\ref\Dano-Rpgistas.dll

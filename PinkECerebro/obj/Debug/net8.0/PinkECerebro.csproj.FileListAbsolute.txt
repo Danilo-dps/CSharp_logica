@@ -1,0 +1,15 @@
+C:\temp\CSharp_logica\PinkECerebro\bin\Debug\net8.0\PinkECerebro.exe
+C:\temp\CSharp_logica\PinkECerebro\bin\Debug\net8.0\PinkECerebro.deps.json
+C:\temp\CSharp_logica\PinkECerebro\bin\Debug\net8.0\PinkECerebro.runtimeconfig.json
+C:\temp\CSharp_logica\PinkECerebro\bin\Debug\net8.0\PinkECerebro.dll
+C:\temp\CSharp_logica\PinkECerebro\bin\Debug\net8.0\PinkECerebro.pdb
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\PinkECerebro.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\PinkECerebro.AssemblyInfoInputs.cache
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\PinkECerebro.AssemblyInfo.cs
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\PinkECerebro.csproj.CoreCompileInputs.cache
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\PinkECerebro.sourcelink.json
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\PinkECerebro.dll
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\refint\PinkECerebro.dll
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\PinkECerebro.pdb
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\PinkECerebro.genruntimeconfig.cache
+C:\temp\CSharp_logica\PinkECerebro\obj\Debug\net8.0\ref\PinkECerebro.dll

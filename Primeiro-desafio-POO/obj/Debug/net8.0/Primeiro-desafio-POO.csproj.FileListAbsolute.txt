@@ -1,0 +1,14 @@
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\bin\Debug\net8.0\Primeiro-desafio-POO.exe
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\bin\Debug\net8.0\Primeiro-desafio-POO.deps.json
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\bin\Debug\net8.0\Primeiro-desafio-POO.runtimeconfig.json
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\bin\Debug\net8.0\Primeiro-desafio-POO.dll
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\bin\Debug\net8.0\Primeiro-desafio-POO.pdb
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\Primeiro-desafio-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\Primeiro-desafio-POO.AssemblyInfoInputs.cache
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\Primeiro-desafio-POO.AssemblyInfo.cs
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\Primeiro-desafio-POO.csproj.CoreCompileInputs.cache
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\Primeiro-desafio-POO.dll
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\refint\Primeiro-desafio-POO.dll
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\Primeiro-desafio-POO.pdb
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\Primeiro-desafio-POO.genruntimeconfig.cache
+C:\temp\CSharp-DIO\Primeiro-desafio-POO\obj\Debug\net8.0\ref\Primeiro-desafio-POO.dll

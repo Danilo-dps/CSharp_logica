@@ -1,0 +1,15 @@
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\bin\Debug\net8.0\ValidandoTamanhoDeSenha.exe
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\bin\Debug\net8.0\ValidandoTamanhoDeSenha.deps.json
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\bin\Debug\net8.0\ValidandoTamanhoDeSenha.runtimeconfig.json
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\bin\Debug\net8.0\ValidandoTamanhoDeSenha.dll
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\bin\Debug\net8.0\ValidandoTamanhoDeSenha.pdb
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ValidandoTamanhoDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ValidandoTamanhoDeSenha.AssemblyInfoInputs.cache
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ValidandoTamanhoDeSenha.AssemblyInfo.cs
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ValidandoTamanhoDeSenha.csproj.CoreCompileInputs.cache
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ValidandoTamanhoDeSenha.sourcelink.json
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ValidandoTamanhoDeSenha.dll
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\refint\ValidandoTamanhoDeSenha.dll
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ValidandoTamanhoDeSenha.pdb
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ValidandoTamanhoDeSenha.genruntimeconfig.cache
+C:\temp\CSharp_logica\ValidandoTamanhoDeSenha\obj\Debug\net8.0\ref\ValidandoTamanhoDeSenha.dll
